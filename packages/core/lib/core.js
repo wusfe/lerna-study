@@ -6,4 +6,4 @@ function core() {
     // TODO
 }
 
-console.log("core11")
+console.log("core1122")
