@@ -6,6 +6,6 @@
 
 ```
 const core = require('core');
-11
+1111
 // TODO: DEMONSTRATE API
 ```
